@@ -1,0 +1,26 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "gen": "gen.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShariseMo/generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShariseMo/generator/issues"
+  },
+  "homepage": "https://github.com/ShariseMo/generator#readme",
+  "devDependencies": {
+    "mustache": "^2.3.0"
+  }
+}
